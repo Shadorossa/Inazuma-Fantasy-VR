@@ -1,11 +1,6 @@
 {
     "Name": "Inazuma Fantasy",
     "Author": "Shadorossa",
-<<<<<<< HEAD
-    "ModVersion": "DEV",
-    "GameVersion": "DEV"
-=======
     "ModVersion": "0.6",
     "GameVersion": "4.1"
->>>>>>> d453674c83dd4eeb11864d628985ac8bfb5a4546
 }
