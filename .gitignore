@@ -1,1 +1,15 @@
+# BAK FILES
 data/common/gamedata/soccer/soccer_game_config_1.04.08.00.cfg.bin_3.0.1
+
+
+# SCRIPTS AUTOMÁTICOS
+data/common/text/Añadir_bloques.py
+
+# TEXTOS PASIVAS
+data/common/text/de/skill_text_de.json
+data/common/text/en/skill_text_en.json
+data/common/text/es/skill_text_es.json
+data/common/text/fr/skill_text_fr.json
+data/common/text/it/skill_text_it.json
+data/common/text/ja/skill_text_ja.json
+data/common/text/pt/skill_text_pt.json
